@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "csharp-socks-deckconverter/1.0.0": {
+        "runtime": {
+          "csharp-socks-deckconverter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-socks-deckconverter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

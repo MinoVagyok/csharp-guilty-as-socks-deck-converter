@@ -1,0 +1,15 @@
+E:\Programozás_projects\csharp-socks-deckconverter\bin\Debug\net8.0\csharp-socks-deckconverter.exe
+E:\Programozás_projects\csharp-socks-deckconverter\bin\Debug\net8.0\csharp-socks-deckconverter.deps.json
+E:\Programozás_projects\csharp-socks-deckconverter\bin\Debug\net8.0\csharp-socks-deckconverter.runtimeconfig.json
+E:\Programozás_projects\csharp-socks-deckconverter\bin\Debug\net8.0\csharp-socks-deckconverter.dll
+E:\Programozás_projects\csharp-socks-deckconverter\bin\Debug\net8.0\csharp-socks-deckconverter.pdb
+E:\Programozás_projects\csharp-socks-deckconverter\obj\Debug\net8.0\csharp-socks-deckconverter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programozás_projects\csharp-socks-deckconverter\obj\Debug\net8.0\csharp-socks-deckconverter.AssemblyInfoInputs.cache
+E:\Programozás_projects\csharp-socks-deckconverter\obj\Debug\net8.0\csharp-socks-deckconverter.AssemblyInfo.cs
+E:\Programozás_projects\csharp-socks-deckconverter\obj\Debug\net8.0\csharp-socks-deckconverter.csproj.CoreCompileInputs.cache
+E:\Programozás_projects\csharp-socks-deckconverter\obj\Debug\net8.0\csharp-socks-deckconverter.dll
+E:\Programozás_projects\csharp-socks-deckconverter\obj\Debug\net8.0\refint\csharp-socks-deckconverter.dll
+E:\Programozás_projects\csharp-socks-deckconverter\obj\Debug\net8.0\csharp-socks-deckconverter.pdb
+E:\Programozás_projects\csharp-socks-deckconverter\obj\Debug\net8.0\csharp-socks-deckconverter.genruntimeconfig.cache
+E:\Programozás_projects\csharp-socks-deckconverter\obj\Debug\net8.0\ref\csharp-socks-deckconverter.dll
+E:\Programozás_projects\csharp-socks-deckconverter\bin\Debug\net8.0\exported_deck.txt
